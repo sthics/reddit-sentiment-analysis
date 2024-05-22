@@ -14,7 +14,6 @@ This project performs sentiment analysis on Reddit posts using natural language 
 - [Project Structure](#project-structure)
 - [Results](#results)
 - [Optimizations and Considerations](#optimizations-and-considerations)
-- [License](#license)
 
 ## Introduction
 
